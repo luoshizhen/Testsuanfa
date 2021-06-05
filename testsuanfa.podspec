@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "testsuanfa"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.4"
   spec.summary      = "A short description of lszTestsuanfa."
 
   # This description is used to generate tags and improve search results.
